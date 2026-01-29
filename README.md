@@ -71,8 +71,8 @@ Key columns:
 - Churn Risk Customers
 
 ### Outputs
-- `rfm_final_output.csv`
-- `churn_risk_customers.csv`
+- `rfm_output_customer360.csv`
+- `single_customer_view.csv`
 
 ---
 
